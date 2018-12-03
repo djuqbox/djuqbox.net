@@ -1,0 +1,2 @@
+# djuqbox.net
+server
